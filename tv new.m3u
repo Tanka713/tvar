@@ -1,0 +1,73 @@
+#EXTM3U
+#EXTINF:-1,Bein Sport 1 4K
+http://m-iptv.net:6204/95025267076109/65839594001441/33350
+#EXTINF:-1,Bein Sport 2 4K
+http://m-iptv.net:6204/95025267076109/65839594001441/33270
+#EXTINF:-1,Bein Sport 3 4K
+http://m-iptv.net:6204/95025267076109/65839594001441/33351
+#EXTINF:-1,Bein Sport 4 4K
+http://m-iptv.net:6204/95025267076109/65839594001441/33352
+#EXTINF:-1,Bein Sport 5 4K
+http://m-iptv.net:6204/95025267076109/65839594001441/33353
+#EXTINF:-1,Bein Sport HD
+http://m-iptv.net:6204/95025267076109/65839594001441/33688
+#EXTINF:-1,Bein Sport News HD
+http://m-iptv.net:6204/95025267076109/65839594001441/33689
+#EXTINF:-1,Bein Sport HD1 1080i
+http://m-iptv.net:6204/95025267076109/65839594001441/33705
+#EXTINF:-1,Bein Sport HD2 1080i
+http://m-iptv.net:6204/95025267076109/65839594001441/33704
+#EXTINF:-1,Bein Sport HD3 1080i
+http://m-iptv.net:6204/95025267076109/65839594001441/33703
+#EXTINF:-1,Bein Sport HD4 1080i
+http://m-iptv.net:6204/95025267076109/65839594001441/33702
+#EXTINF:-1,Bein Sport HD5 1080i
+http://m-iptv.net:6204/95025267076109/65839594001441/33701
+#EXTINF:-1,Bein Sport HD6 1080i
+http://m-iptv.net:6204/95025267076109/65839594001441/33700
+#EXTINF:-1,Bein Sport HD7 1080i
+http://m-iptv.net:6204/95025267076109/65839594001441/33699
+#EXTINF:-1,Bein Sport HD8 1080i
+http://m-iptv.net:6204/95025267076109/65839594001441/33698
+#EXTINF:-1,Bein Sport HD9 1080i
+http://m-iptv.net:6204/95025267076109/65839594001441/33697
+#EXTINF:-1,Bein Sport HD10 1080i
+http://m-iptv.net:6204/95025267076109/65839594001441/33696
+#EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="" group-title="",MBC
+https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
+#EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC 2 HD
+https://shls-mbc2-prod.shahid.net/mbc2-prod.m3u8
+#EXTINF:-1 tvg-id="MBC 3 ARB" tvg-name="MBC 3 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/FVNVC73.png" tvg-country="AE" tvg-url="" group-title="",MBC 3
+https://shls-mbc3-prod.shahid.net/mbc3-prod.m3u8
+#EXTINF:-1 tvg-id="MBC 4 ARB" tvg-name="MBC 4 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/pfF61uH.png" tvg-country="AE" tvg-url="" group-title="",MBC 4
+https://shls-mbc4-prod.shahid.net/mbc4-prod.m3u8
+#EXTINF:-1 tvg-id="MBC 5 ARB" tvg-name="MBC 5 ARB" tvg-language="Arabic" tvg-logo="https://upload.wikimedia.org/wikipedia/ar/thumb/4/48/Mbc5.webp/168px-Mbc5.webp.png" tvg-country="AE" tvg-url="" group-title="",MBC 5
+https://shls-mbc5-prod.shahid.net/mbc5-prod.m3u8
+#EXTINF:-1 tvg-id="MBC Action ARB" tvg-name="MBC Action ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/n3TgfP0.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC Action HD
+https://shls-mbcaction-prod.shahid.net/mbcaction-prod.m3u8
+#EXTINF:-1 tvg-id="MBC Bollywood ARB" tvg-name="MBC Bollywood ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/fMjhK06.png" tvg-country="AE" tvg-url="" group-title="Entertainment",MBC Bollywood
+https://shls-mbcbollywood-prod.shahid.net/mbcbollywood-prod.m3u8
+#EXTINF:-1 tvg-id="MBC Drama ARB" tvg-name="MBC Drama ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/F5ER0we.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC Drama
+https://shls-mbcdramaksa-prod.shahid.net/mbcdramaksa-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="AE" tvg-url="" group-title="",MBC Drama+
+https://shls-mbcplusdrama-prod.shahid.net/mbcplusdrama-prod.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="" tvg-country="SA" tvg-url="" group-title="",MBC FM
+https://shls-mbcfm-riyadh.shahid.net/MBCFM_Riyadh.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-language="Arabic" tvg-logo="https://i.imgur.com/huebvDt.png" tvg-country="IQ" tvg-url="" group-title="",MBC Iraq
+https://shls-iraq-prod.shahid.net/iraq-prod.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 1 ARB" tvg-name="MBC Masr 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/SrvZduL.jpg" tvg-country="EG" tvg-url="" group-title="",MBC Masr 1
+https://shls-masr-prod.shahid.net/masr-prod.m3u8
+#EXTINF:-1 tvg-id="MBC Masr 2 ARB" tvg-name="MBC Masr 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/7dQmaj6.png" tvg-country="EG" tvg-url="" group-title="",MBC Masr 2
+https://shls-masr2-prod.shahid.net/masr2-prod.m3u8
+#EXTINF:-1 tvg-id="MBC Max ARB" tvg-name="MBC Max ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/X6EliFm.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC Max HD
+https://shls-mbcmax-prod.shahid.net/mbcmax-prod.m3u8
+#EXTINF:-1 tvg-id="National Geographic Abu Dhabi AR ARB" tvg-name="National Geographic Abu Dhabi AR ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/baXbWro.jpg" tvg-country="AE" tvg-url="" group-title="",National Geographic Abu Dhabi
+https://admdn2.cdn.mangomolo.com/nagtv/smil:nagtv.stream.smil/playlist.m3u8
+#EXTINF:-1,CN Arabia
+http://37.235.38.131:4000/play/a02l/index.m3u8
+#EXTINF:-1,US | Disney Channel
+http://69.64.33.127:25461/LifeUsu04/C0251/316
+#EXTINF:-1,US | Disney XD
+http://69.64.33.127:25461/LifeUsu04/C0251/318
+#EXTINF:-1,US | Nick
+http://69.64.33.127:25461/LifeUsu04/C0251/319

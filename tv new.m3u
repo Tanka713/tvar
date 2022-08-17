@@ -1,38 +1,4 @@
 #EXTM3U
-#EXTINF:-1,Bein Sport 1 4K
-http://m-iptv.net:6204/95025267076109/65839594001441/33350
-#EXTINF:-1,Bein Sport 2 4K
-http://m-iptv.net:6204/95025267076109/65839594001441/33270
-#EXTINF:-1,Bein Sport 3 4K
-http://m-iptv.net:6204/95025267076109/65839594001441/33351
-#EXTINF:-1,Bein Sport 4 4K
-http://m-iptv.net:6204/95025267076109/65839594001441/33352
-#EXTINF:-1,Bein Sport 5 4K
-http://m-iptv.net:6204/95025267076109/65839594001441/33353
-#EXTINF:-1,Bein Sport HD
-http://m-iptv.net:6204/95025267076109/65839594001441/33688
-#EXTINF:-1,Bein Sport News HD
-http://m-iptv.net:6204/95025267076109/65839594001441/33689
-#EXTINF:-1,Bein Sport HD1 1080i
-http://m-iptv.net:6204/95025267076109/65839594001441/33705
-#EXTINF:-1,Bein Sport HD2 1080i
-http://m-iptv.net:6204/95025267076109/65839594001441/33704
-#EXTINF:-1,Bein Sport HD3 1080i
-http://m-iptv.net:6204/95025267076109/65839594001441/33703
-#EXTINF:-1,Bein Sport HD4 1080i
-http://m-iptv.net:6204/95025267076109/65839594001441/33702
-#EXTINF:-1,Bein Sport HD5 1080i
-http://m-iptv.net:6204/95025267076109/65839594001441/33701
-#EXTINF:-1,Bein Sport HD6 1080i
-http://m-iptv.net:6204/95025267076109/65839594001441/33700
-#EXTINF:-1,Bein Sport HD7 1080i
-http://m-iptv.net:6204/95025267076109/65839594001441/33699
-#EXTINF:-1,Bein Sport HD8 1080i
-http://m-iptv.net:6204/95025267076109/65839594001441/33698
-#EXTINF:-1,Bein Sport HD9 1080i
-http://m-iptv.net:6204/95025267076109/65839594001441/33697
-#EXTINF:-1,Bein Sport HD10 1080i
-http://m-iptv.net:6204/95025267076109/65839594001441/33696
 #EXTINF:-1 tvg-id="MBC 1 ARB" tvg-name="MBC 1 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/eKBXOKd.png" tvg-country="AE" tvg-url="" group-title="",MBC
 https://shls-mbc1ksa-prod.shahid.net/mbc1ksa-prod.m3u8
 #EXTINF:-1 tvg-id="MBC" tvg-name="MBC 2 ARB" tvg-language="Arabic" tvg-logo="https://i.imgur.com/KXuzL1u.png" tvg-country="AE" tvg-url="" group-title="Movies",MBC 2 HD

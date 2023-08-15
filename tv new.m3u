@@ -1,5 +1,23 @@
 #EXTM3U
-#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/S4eXYZL.png" group-title="",MBC 1 HD
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/S4eXYZL.png" group-title="MBC",MBC 1
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="AE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/MBCIraq.jpeg/revision/latest?cb=20191214070733" group-title="",MBC Iraq
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/xK99Yy5.png" group-title="MBC",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="" group-title="Kids",MBC 3
+https://shls-mbc3-prod-dub.shahid.net/out/v1/d5bbe570e1514d3d9a142657d33d85e6/index_2.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="EG" tvg-logo="https://i.imgur.com/lMNtYqf.png" group-title="MBC",MBC Masr 1 
+https://shls-masr-ak.akamaized.net/out/v1/d5036cabf11e45bf9d0db410ca135c18/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="GB" tvg-logo="" group-title="Kids",Cartoon Network UK
+https://tv4.live/api/stream/robert.goldsby50@gmail.com/629662/livetv.epg/cartoon.network.uk.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bb/Cartoon_Network_Arabic_logo.png/693px-Cartoon_Network_Arabic_logo.png" group-title="Kids",Cartoon Network Arabic
+https://shls-cartoon-net-prod-dub.shahid.net/out/v1/dc4aa87372374325a66be458f29eab0f/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/dWueFIE.png" group-title="Dubai",Dubai TV (1080p)
+https://dmisxthvll.cdn.mgmlcdn.com/dubaitvht/smil:dubaitv.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/bF6I3N1.jpg" group-title="Dubai",Sama Dubai (1080p)
+https://dmieigthvll.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/playlist.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="https://i.imgur.com/0aMNwQa.png" group-title="Quran",Al Quran Al Kareem TV Mecca
+https://edge.taghtia.com/sa/7.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Quran",Quran Radio 
+https://edge.taghtia.com/sa/13.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama PLUS
+https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?checkedby:iptvcat.com

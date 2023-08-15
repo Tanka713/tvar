@@ -1,5 +1,5 @@
 #EXTM3U
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/S4eXYZL.png" group-title="",MBC 1 HD
 https://d3o3cim6uzorb4.cloudfront.net/out/v1/0965e4d7deae49179172426cbfb3bc5e/index.m3u8?checkedby:iptvcat.com
-#EXTINF:0 tvg-country="TR" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/MBCIraq.jpeg/revision/latest?cb=20191214070733" group-title="",MBC Iraq
+#EXTINF:0 tvg-country="AE" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6e/MBCIraq.jpeg/revision/latest?cb=20191214070733" group-title="",MBC Iraq
 https://shls-iraq-prod-dub.shahid.net/out/v1/c9bf1e87ea66478bb20bc5c93c9d41ea/index_2.m3u8?checkedby:iptvcat.com

@@ -19,3 +19,7 @@ https://edge.taghtia.com/sa/7.m3u8?checkedby:iptvcat.com
 https://edge.taghtia.com/sa/13.m3u8?checkedby:iptvcat.com
 #EXTINF:0 tvg-country="AE" tvg-logo="https://i.imgur.com/F5ER0we.png" group-title="MBC",MBC Drama PLUS
 https://shls-mbcplusdrama-prod-dub.shahid.net/out/v1/97ca0ce6fc6142f4b14c0a694af59eab/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="DZ;BH;EG;IQ;KW;MA;PS;SA;AE" tvg-logo="https://i.imgur.com/snkewG1.png" group-title="General",MBC 4 (1080p)
+https://mbc4-prod-dub-ak.akamaized.net/out/v1/c08681f81775496ab4afa2bac7ae7638/index.m3u8?checkedby:iptvcat.com
+#EXTINF:0 tvg-country="UN" tvg-logo="" group-title="Sport",BEIN SPORTS PREMIUM 1HD
+http://7b30f9aa.tvclub.xyz/iptv/SGME6W4L2A6MNZ/6131/index.m3u8?checkedby:iptvcat.com
